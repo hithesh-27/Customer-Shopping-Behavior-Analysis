@@ -6,6 +6,7 @@
 ​The primary objective was to analyze 3,900 transactional purchases to uncover key customer spending patterns, segmentation opportunities, and product preferences. The findings aim to provide strategic recommendations to boost marketing efficiency and loyalty program effectiveness.
 
 ​💻 Technical Workflow & Execution
+
 **​1. Data Preparation and Cleaning (Python)**
 ​Initial Handling: Performed Exploratory Data Analysis (EDA) using Pandas to inspect the dataset structure, summary statistics, and data types.
 ​Data Quality: Addressed missing data by imputing 37 null values in the Review Rating column using the median rating specific to each product category.
